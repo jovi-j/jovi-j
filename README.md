@@ -3,7 +3,7 @@
 Eu sou o **João Victor**, ou se preferir, meu apelido é **Jovi**😁.
 
 ## Sobre mim 🤔
-Sou um desenvolvedor Back-end apaixonado por Vim, Linux e Doom. Também gosto de colocar [teminha bonito](https://draculatheme.com/) em qualquer app que eu uso.(qualquer um sem exceção)🤭.
+Sou um desenvolvedor Back-end apaixonado por Vim, Linux e Doom. Também gosto de colocar [teminha bonito](https://draculatheme.com/) em qualquer app que eu uso(qualquer um sem exceção)🤭.
 
 ## Experiência Profissional 💼 
 Atualmente eu trabalho na *ESIG Software e Consultoria*, uma empresa que fornece várias soluções inteligentes, e dentre elas, a que eu ativamente trabalho se chama *SIGEDUC*, um sistema que gerencia não só escolas de todo o estado em que vivo (Rio Grande do Norte) como de todo o Brasil.
