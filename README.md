@@ -11,6 +11,6 @@ Atualmente eu trabalho na *ESIG Software e Consultoria*, uma empresa que fornece
 ## Bagagem Tecnológica 🖥️🐧
 Desde 2014, quando de fato entrei no mundo do pinguim, todo o meu ecossistema de trabalho envolve Linux e Vim, e isso moldou significativamente meu ponto de vista sobre a iniciativa open source e o mundo dev.
 
-Diria que, de "linguagem materna", aquela que eu mais me sinto a vontade de tentar coisas novas mesmo que eu falhe, é Java, pois desde que eu entrei na IFRN, até hoje em dia no meu emprego atual, venho utilizando-a e reaprendendo-a, porém, confesso que pra coisas relativamente simples ou que não precisem de tudo que o Java nos oferece, Python é minha segunda escolha 🐍 
+Diria que, de "linguagem materna", aquela que eu mais me sinto a vontade de tentar coisas novas mesmo que eu falhe, é Java, pois desde que eu entrei no IFRN, até hoje em dia no meu emprego atual, venho utilizando-a e reaprendendo-a, porém, confesso que pra coisas relativamente simples ou que não precisem de tudo que o Java nos oferece, Python é minha segunda escolha 🐍 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovi-j/)
