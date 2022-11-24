@@ -37,7 +37,7 @@ Eu sou o **João Victor**, ou se preferir, meu apelido é **Jovi**😁.
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00)
  
 
-# *O.S.*
+# *S.O.*
  ❤️ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ❤️
  </div>
  
