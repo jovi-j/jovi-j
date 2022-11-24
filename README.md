@@ -70,6 +70,6 @@ Diria que, de "linguagem materna", aquela que eu mais me sinto a vontade de tent
 
 <div align="center">
  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovi-j/){:target="_blank"}
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jovi-j/)
 
 </div>
