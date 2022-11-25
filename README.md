@@ -26,7 +26,6 @@ Eu sou o **João Victor**, ou se preferir, meu apelido é **Jovi**😁.
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=LaTeX&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 ![GDscript](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=GodotEngine&logoColor=white)
 
 
@@ -35,6 +34,8 @@ Eu sou o **João Victor**, ou se preferir, meu apelido é **Jovi**😁.
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat-square&logo=rabbitmq&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+
  
 
 # *S.O.*
