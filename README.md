@@ -26,10 +26,9 @@ Eu sou o **João Victor**, ou se preferir, meu apelido é **Jovi**😁.
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=LaTeX&logoColor=white)
 ![GDscript](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=GodotEngine&logoColor=white)
-
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 #### Aprendendo atualmente...
-![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
  
