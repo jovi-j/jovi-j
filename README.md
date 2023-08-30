@@ -10,11 +10,11 @@ Eu sou o **João Victor**, ou se preferir, meu apelido é **Jovi**😁.
 
 # *Ferramentas 🔧*
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white)
-![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
+![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=flat-square&logo=gnu-emacs&logoColor=white)
 
 # *Linguagens e Tecnologias {}*
 
-![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white)
@@ -48,7 +48,7 @@ Sou um desenvolvedor Back-end apaixonado por Vim, Linux e Doom. Também gosto de
  
 </div>
 
-Atualmente eu trabalho na *ESIG Software e Consultoria*, uma empresa que fornece várias soluções inteligentes, e dentre elas, a que eu ativamente trabalho se chama *SIGEDUC*, um sistema que gerencia não só escolas de todo o estado em que vivo (Rio Grande do Norte) como de todo o Brasil.
+Trabalhei na *ESIG Software e Consultoria*, uma empresa que fornece várias soluções inteligentes, e dentre elas o *SIGEDUC*, sistema de gestão escolar e universitaria que atende milhares de usuários espalhados pelo Brasil. Em seguida, trabalhei em um projeto chamado SIGSAÚDE, um sistema de gerenciamento clínico, utilizado em diversos hospitais-escola do Rio Grande do Norte, fundado e mantido pela UFRN/SESAP-RN. 
 
 <div align="center">
  
